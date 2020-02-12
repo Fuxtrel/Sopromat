@@ -1,6 +1,6 @@
 #ifndef SOPROMAT_INPUT_DATE_H
 #define SOPROMAT_INPUT_DATE_H
-//
+
 class InputDate {
 public:
     //Внешний вращающий момнет

@@ -88,7 +88,7 @@
       <workItem from="1580835298738" duration="1010000" />
       <workItem from="1580906496158" duration="563000" />
       <workItem from="1581463528711" duration="4731000" />
-      <workItem from="1581503942183" duration="282000" />
+      <workItem from="1581503942183" duration="621000" />
     </task>
     <task id="LOCAL-00001" summary="Пустейший проект, начало!">
       <created>1580740150435</created>
@@ -104,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581504099664</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Созание классов входных данных и сил">
+      <created>1581504332548</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581504332548</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,10 +124,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Созание классов входных данных и сил" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="543" y="15" key="CommitChangelistDialog2" timestamp="1581504269991">
+    <state x="543" y="15" key="CommitChangelistDialog2" timestamp="1581504569882">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="543" y="15" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581504269991" />
+    <state x="543" y="15" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581504569882" />
     <state x="905" y="296" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1580740148877" />
     <state x="1061" y="443" key="FileChooserDialogImpl" timestamp="1580739669950">
       <screen x="0" y="0" width="2560" height="1400" />
@@ -150,10 +157,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="400" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1580801793509" />
-    <state x="524" y="255" key="Vcs.Push.Dialog.v2" timestamp="1581504147361">
+    <state x="524" y="255" key="Vcs.Push.Dialog.v2" timestamp="1581504379692">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="524" y="255" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1581504147361" />
+    <state x="524" y="255" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1581504379692" />
     <state x="873" y="434" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1580740161739" />
     <state x="465" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1581503954627">
       <screen x="0" y="0" width="1536" height="824" />
