@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Sopromat" targetName="Sopromat" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="82e5797a-4d18-42ec-b7a7-9467356b7cf7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Quest/cmake-build-debug/texttext" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/main.cpp.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/objects.a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Sopromat.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input_date.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input_date.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stepic_Second/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stepic_Second/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/cmake-build-debug/CMakeFiles/Quest.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/cmake-build-debug/CMakeFiles/Quest.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/cmake-build-debug/CMakeFiles/Quest.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/cmake-build-debug/CMakeFiles/Quest.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/cmake-build-debug/CMakeFiles/Quest.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/cmake-build-debug/CMakeFiles/Quest.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/cmake-build-debug/CMakeFiles/Quest.dir/test.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/cmake-build-debug/CMakeFiles/Quest.dir/test.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/cmake-build-debug/Quest.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/cmake-build-debug/Quest.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quest/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/test.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Sopromat.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Sopromat.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\811243\CLionProjects\Sopromat\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XIhHg8whhHLzf0hn2Qy6HzuRq5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Sopromat" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Sopromat" TARGET_NAME="Sopromat" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Sopromat" RUN_TARGET_NAME="Sopromat">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82e5797a-4d18-42ec-b7a7-9467356b7cf7" name="Default Changelist" comment="" />
+      <created>1580739429840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580739429840</updated>
+      <workItem from="1580739431450" duration="8140000" />
+      <workItem from="1580835298738" duration="1010000" />
+      <workItem from="1580906496158" duration="563000" />
+      <workItem from="1581463528711" duration="4731000" />
+    </task>
+    <task id="LOCAL-00001" summary="Пустейший проект, начало!">
+      <created>1580740150435</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580740150435</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Пустейший проект, начало!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Пустейший проект, начало!" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="905" y="296" key="CommitChangelistDialog2" timestamp="1580740148877">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="905" y="296" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1580740148877" />
+    <state x="1061" y="443" key="FileChooserDialogImpl" timestamp="1580739669950">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1061" y="443" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1580739669950" />
+    <state x="1179" y="580" width="258" height="211" key="Github.ShareDialog" timestamp="1580739839657">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1179" y="580" width="258" height="211" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1580739839657" />
+    <state x="1127" y="407" key="Github.UntrackedFilesDialog" timestamp="1580739869057">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1127" y="407" key="Github.UntrackedFilesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1580739869057" />
+    <state width="2517" height="400" key="GridCell.Tab.0.bottom" timestamp="1580801793509">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="400" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1580801793509" />
+    <state width="2517" height="400" key="GridCell.Tab.0.center" timestamp="1580801793509">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="400" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1580801793509" />
+    <state width="2517" height="400" key="GridCell.Tab.0.left" timestamp="1580801793509">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="400" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1580801793509" />
+    <state width="2517" height="400" key="GridCell.Tab.0.right" timestamp="1580801793509">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="400" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1580801793509" />
+    <state x="873" y="434" key="Vcs.Push.Dialog.v2" timestamp="1580740161739">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="873" y="434" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1580740161739" />
+    <state x="465" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1581503954627">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581503954627" />
+    <state x="775" y="403" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1580906497082" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1581464245288">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1581464245288" />
+  </component>
+</project>

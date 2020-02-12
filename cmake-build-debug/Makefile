@@ -122,6 +122,33 @@ Sopromat/fast:
 	$(MAKE) -f CMakeFiles\Sopromat.dir\build.make CMakeFiles/Sopromat.dir/build
 .PHONY : Sopromat/fast
 
+input_date.obj: input_date.cpp.obj
+
+.PHONY : input_date.obj
+
+# target to build an object file
+input_date.cpp.obj:
+	$(MAKE) -f CMakeFiles\Sopromat.dir\build.make CMakeFiles/Sopromat.dir/input_date.cpp.obj
+.PHONY : input_date.cpp.obj
+
+input_date.i: input_date.cpp.i
+
+.PHONY : input_date.i
+
+# target to preprocess a source file
+input_date.cpp.i:
+	$(MAKE) -f CMakeFiles\Sopromat.dir\build.make CMakeFiles/Sopromat.dir/input_date.cpp.i
+.PHONY : input_date.cpp.i
+
+input_date.s: input_date.cpp.s
+
+.PHONY : input_date.s
+
+# target to generate assembly for a file
+input_date.cpp.s:
+	$(MAKE) -f CMakeFiles\Sopromat.dir\build.make CMakeFiles/Sopromat.dir/input_date.cpp.s
+.PHONY : input_date.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -158,6 +185,9 @@ help:
 	@echo ... Sopromat
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... input_date.obj
+	@echo ... input_date.i
+	@echo ... input_date.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

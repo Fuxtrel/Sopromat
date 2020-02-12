@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/811243/CLionProjects/Sopromat/input_date.cpp">
+			<Option target="Sopromat"/>
+		</Unit>
+		<Unit filename="C:/Users/811243/CLionProjects/Sopromat/input_date.h">
+			<Option target="Sopromat"/>
+		</Unit>
 		<Unit filename="C:/Users/811243/CLionProjects/Sopromat/main.cpp">
 			<Option target="Sopromat"/>
 		</Unit>
