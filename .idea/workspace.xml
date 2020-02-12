@@ -12,39 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82e5797a-4d18-42ec-b7a7-9467356b7cf7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Quest/cmake-build-debug/texttext" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/CXX.includecache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/depend.internal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/main.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/objects.a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Sopromat.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_date.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_date.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stepic_Second/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stepic_Second/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/cmake-build-debug/CMakeFiles/Quest.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/cmake-build-debug/CMakeFiles/Quest.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/cmake-build-debug/CMakeFiles/Quest.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/cmake-build-debug/CMakeFiles/Quest.dir/main.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/cmake-build-debug/CMakeFiles/Quest.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/cmake-build-debug/CMakeFiles/Quest.dir/objects.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/cmake-build-debug/CMakeFiles/Quest.dir/test.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/cmake-build-debug/CMakeFiles/Quest.dir/test.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/cmake-build-debug/Quest.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/cmake-build-debug/Quest.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Quest/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Quest/test.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/objects1.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Sopromat.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Sopromat.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +25,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -119,6 +88,7 @@
       <workItem from="1580835298738" duration="1010000" />
       <workItem from="1580906496158" duration="563000" />
       <workItem from="1581463528711" duration="4731000" />
+      <workItem from="1581503942183" duration="282000" />
     </task>
     <task id="LOCAL-00001" summary="Пустейший проект, начало!">
       <created>1580740150435</created>
@@ -127,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580740150435</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Созание классов входных данных и сил">
+      <created>1581504099664</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581504099664</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,12 +113,14 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Пустейший проект, начало!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Пустейший проект, начало!" />
+    <MESSAGE value="Созание классов входных данных и сил" />
+    <option name="LAST_COMMIT_MESSAGE" value="Созание классов входных данных и сил" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="905" y="296" key="CommitChangelistDialog2" timestamp="1580740148877">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="543" y="15" key="CommitChangelistDialog2" timestamp="1581504269991">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="543" y="15" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581504269991" />
     <state x="905" y="296" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1580740148877" />
     <state x="1061" y="443" key="FileChooserDialogImpl" timestamp="1580739669950">
       <screen x="0" y="0" width="2560" height="1400" />
@@ -171,15 +150,24 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="2517" height="400" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1580801793509" />
-    <state x="873" y="434" key="Vcs.Push.Dialog.v2" timestamp="1580740161739">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="524" y="255" key="Vcs.Push.Dialog.v2" timestamp="1581504147361">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="524" y="255" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1581504147361" />
     <state x="873" y="434" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1580740161739" />
     <state x="465" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1581503954627">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="465" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581503954627" />
     <state x="775" y="403" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1580906497082" />
+    <state x="725" y="154" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1581504252623">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="725" y="154" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.824@0.0.1536.824" timestamp="1581504252623" />
+    <state x="578" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581504163259">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1581504163259" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1581464245288">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
