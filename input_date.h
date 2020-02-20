@@ -1,65 +1,52 @@
 #ifndef SOPROMAT_INPUT_DATE_H
 #define SOPROMAT_INPUT_DATE_H
 
+#include <cmath>
+#include <iostream>
+
+using namespace std;
+
 class InputDate {
 public:
-    //Р’РЅРµС€РЅРёР№ РІСЂР°С‰Р°СЋС‰РёР№ РјРѕРјРЅРµС‚
-    int T;
-    //РЈРіР»РѕРІС‹Рµ РїР°СЂР°РјРµС‚СЂС‹ Р·СѓР±С‡Р°С‚С‹С… Р·Р°С†РµРїР»РµРЅРёР№
+    //Внешний вращающий момнет
+    double T;
+    //Угловые параметры зубчатых зацеплений
     double alf, bt1, bt2;
-    //РЈРіР»РѕРІР°СЏ СЃРєРѕСЂРѕСЃС‚СЊ РІСЂР°С‰РµРЅРёСЏ РІР°Р»Р°
-    int w;
-    //Р”РёР°РјРµС‚СЂС‹ Р·СѓР±С‡Р°С‚С‹С… РєРѕР»С‘СЃ
-    int dk1, dk2;
-    //РЈРіР»РѕРІС‹Рµ РєРѕРѕСЂРґРёРЅР°С‚С‹ С‚РѕС‡РµРє Р·Р°С†РµРїР»РѕРµРЅРёСЏ Р·СѓР±С‡Р°С‚С‹С… РєРѕР»С‘СЃ
+    //Угловая скорость вращения вала
+    //int w;
+    //Диаметры зубчатых колёс
+   double dk1, dk2;
+    //Угловые координаты точек зацеплоения зубчатых колёс
     double fi1, fi2;
-    //Р”Р»РёРЅС‹ СѓС‡Р°СЃС‚РєРѕРІ РІР°Р»Р°
+    //Длины участков вала
     int l1, l2, l3, l4, l5;
-    //РљРѕСЌС„С„РёС†РёРµРЅС‚ РїРµСЂРµРіСЂСѓР·РєРё
+    //Коэффициент перегрузки
     int eta1, eta2, eta3;
-    //Р”Р»РёС‚РµР»СЊРЅРѕСЃС‚СЊ СЃС‚СѓРїРµРЅРё N
+    //Длительность ступени N
     int N1, N2, N3;
+    double Ft1, Ft2, Fx1, Fx2, Fr1, Fr2;
 
-    InputDate(int t, int ALF, int BT1, int BT2, int W, int DK1, int DK2, int FI1, int FI2,
-              int L1, int L2, int L3, int L4, int L5, int ETA1, int ETA2, int ETA3, int n1, int n2, int n3) {
-        T = t;
-        alf = (20 * 3.14) / 180;
-        bt1 = (BT1 * 3.14) / 180;
-        bt2 = (BT2 * 3.14) / 180;
-        w = W;
-        dk1 = DK1;
-        dk2 = DK2;
-        fi1 = (FI1 * 3.14) / 180;
-        fi2 = (FI2 * 3.14) / 180;
-        l1 = L1;
-        l2 = L2;
-        l3 = L3;
-        l4 = L4;
-        l5 = L5;
-        eta1 = ETA1;
-        eta2 = ETA2;
-        eta3 = ETA3;
-        N1 = n1;
-        N2 = n2;
-        N3 = n3;
-    }
+    InputDate();
 
+    void equipmentCout();
 };
 
-class Forces : public InputDate {
+
+class defXYZ : public InputDate {
 public:
-    //РўР°РЅРіРµРЅС†РёР°Р»СЊРЅР°СЏ, РѕСЃРµРІР°СЏ Рё СЂР°РґРёР°Р»СЊРЅР°СЏ СЃРёР»С‹
-    double Ft, Fx, Fr;
-    //Р РµР·СѓР»СЊС‚РёСЂСѓСЋС‰РёРµ СЃРёР»С‹ РІ Р·СѓР±С‡Р°С‚С‹С… РєРѕР»С‘СЃР°С…
-    double X, Y, Z;
-    //Р РµР°РєС†РёРё РѕРїРѕСЂ
-    double Rx, Ry, Rz;
-    //РњРѕРјРµРЅС‚С‹ РІ Р·СѓР±С‡Р°С‚С‹С… РєРѕР»С‘СЃР°С…
-    double My, Mz;
-    double dist1, dist2, dist3;
+    int sign;
+    double X1, Y1, Z1, X2, Y2, Z2, My1, My2, Mz1, Mz2;
+
+    defXYZ();
 
 };
 
+class WalPosition : public defXYZ{
+public:
+    double forces[7];
+    double Ha, Ray, Raz, Rby, Rbz;
 
+    WalPosition();
+};
 
 #endif //SOPROMAT_INPUT_DATE_H
