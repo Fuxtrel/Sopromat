@@ -44,6 +44,7 @@ class WalPosition : public defXYZ{
 public:
     int forces[2];
     double dist[3];
+    string d1, d2, d3;
     double Ha, Ray, Raz, Rby, Rbz;
 
     WalPosition();
