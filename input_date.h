@@ -19,7 +19,7 @@ public:
     //Угловые координаты точек зацеплоения зубчатых колёс
     double fi1, fi2;
     //Длины участков вала
-    int l1, l2, l3, l4, l5;
+    double l1, l2, l3, l4, l5;
     //Коэффициент перегрузки
     int eta1, eta2, eta3;
     //Длительность ступени N
@@ -28,7 +28,6 @@ public:
 
     InputDate();
 
-    void equipmentCout();
 };
 
 
@@ -43,10 +42,12 @@ public:
 
 class WalPosition : public defXYZ{
 public:
-    double forces[7];
+    int forces[2];
+    double dist[3];
     double Ha, Ray, Raz, Rby, Rbz;
 
     WalPosition();
+    void equipmentCout();
 };
 
 #endif //SOPROMAT_INPUT_DATE_H

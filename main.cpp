@@ -4,7 +4,8 @@
 
 int main() {
     setlocale(LC_ALL, "Russian");
-    InputDate inpD;
+    //InputDate inpD;
+    WalPosition WP;
     //defXYZ A;
-    inpD.equipmentCout();
+    WP.equipmentCout();
 }
