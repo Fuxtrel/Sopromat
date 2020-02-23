@@ -11,18 +11,15 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82e5797a-4d18-42ec-b7a7-9467356b7cf7" name="Default Changelist" comment="Вывод данных в файл .txt, подгонка вывода под LATEX">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/input_date.cpp.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/ololo.txt" afterDir="false" />
+    <list default="true" id="82e5797a-4d18-42ec-b7a7-9467356b7cf7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/input_date.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/input_date.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/main.cpp.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Sopromat.dir/objects.a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Sopromat.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Sopromat.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/ololo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/ololo.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/input_date.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/input_date.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/input_date.h" beforeDir="false" afterPath="$PROJECT_DIR$/input_date.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +124,7 @@
       <workItem from="1582491105387" duration="36000" />
       <workItem from="1582491149868" duration="186000" />
       <workItem from="1582491349521" duration="76000" />
-      <workItem from="1582491524553" duration="3725000" />
+      <workItem from="1582491524553" duration="6189000" />
     </task>
     <task id="LOCAL-00001" summary="Пустейший проект, начало!">
       <created>1580740150435</created>
@@ -185,11 +182,29 @@
       <option name="project" value="LOCAL" />
       <updated>1582491769331</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Не работает">
+      <created>1582495344648</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1582495344649</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -199,18 +214,23 @@
     <MESSAGE value="Не работает вывод на экран" />
     <MESSAGE value="Добавлен вывод на экран расчёта реакций (без проверки)" />
     <MESSAGE value="Вывод данных в файл .txt, подгонка вывода под LATEX" />
-    <option name="LAST_COMMIT_MESSAGE" value="Вывод данных в файл .txt, подгонка вывода под LATEX" />
+    <MESSAGE value="Не работает" />
+    <option name="LAST_COMMIT_MESSAGE" value="Не работает" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="432" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1582231564017">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="320" y="432" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1582231564017" />
-    <state x="905" y="296" key="CommitChangelistDialog2" timestamp="1582492874806">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="543" y="15" key="CommitChangelistDialog2" timestamp="1582495340792">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="543" y="15" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581504594401" />
+    <state x="543" y="15" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1582495340792" />
     <state x="905" y="296" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1582492874806" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1582495630780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1582495630780" />
     <state x="1061" y="443" key="FileChooserDialogImpl" timestamp="1580739669950">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -223,45 +243,45 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1127" y="407" key="Github.UntrackedFilesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1580739869057" />
-    <state width="106" height="523" key="GridCell.Tab.0.bottom" timestamp="1582495060311">
+    <state width="48" height="234" key="GridCell.Tab.0.bottom" timestamp="1582496806129">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="106" height="523" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582495060311" />
+    <state width="48" height="234" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582496806129" />
     <state width="524" height="1078" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1582493384474" />
-    <state width="106" height="523" key="GridCell.Tab.0.center" timestamp="1582495060310">
+    <state width="48" height="234" key="GridCell.Tab.0.center" timestamp="1582496806128">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="106" height="523" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582495060310" />
+    <state width="48" height="234" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582496806128" />
     <state width="524" height="1078" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1582493384474" />
-    <state width="106" height="523" key="GridCell.Tab.0.left" timestamp="1582495060310">
+    <state width="48" height="234" key="GridCell.Tab.0.left" timestamp="1582496806128">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="106" height="523" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582495060310" />
+    <state width="48" height="234" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582496806128" />
     <state width="524" height="1078" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1582493384473" />
-    <state width="106" height="523" key="GridCell.Tab.0.right" timestamp="1582495060310">
+    <state width="48" height="234" key="GridCell.Tab.0.right" timestamp="1582496806128">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="106" height="523" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582495060310" />
+    <state width="48" height="234" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582496806128" />
     <state width="524" height="1078" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1582493384474" />
-    <state width="1493" height="2" key="GridCell.Tab.1.bottom" timestamp="1582494664816">
+    <state width="1493" height="183" key="GridCell.Tab.1.bottom" timestamp="1582496798974">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="2" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582494664816" />
+    <state width="1493" height="183" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582496798974" />
     <state width="1514" height="490" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1582346091249" />
-    <state width="1493" height="2" key="GridCell.Tab.1.center" timestamp="1582494664815">
+    <state width="1493" height="183" key="GridCell.Tab.1.center" timestamp="1582496798974">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="2" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582494664815" />
+    <state width="1493" height="183" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582496798974" />
     <state width="1514" height="490" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1582346091249" />
-    <state width="1493" height="2" key="GridCell.Tab.1.left" timestamp="1582494664815">
+    <state width="1493" height="183" key="GridCell.Tab.1.left" timestamp="1582496798974">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="2" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582494664815" />
+    <state width="1493" height="183" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582496798974" />
     <state width="1514" height="490" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1582346091248" />
-    <state width="1493" height="2" key="GridCell.Tab.1.right" timestamp="1582494664816">
+    <state width="1493" height="183" key="GridCell.Tab.1.right" timestamp="1582496798974">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="2" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582494664816" />
+    <state width="1493" height="183" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582496798974" />
     <state width="1514" height="490" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1582346091249" />
     <state x="873" y="434" key="Vcs.Push.Dialog.v2" timestamp="1582491788038">
       <screen x="0" y="0" width="2560" height="1400" />
@@ -286,16 +306,5 @@
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1582111938289" />
     <state x="709" y="318" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1582487911868" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/main.cpp</url>
-          <line>8</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

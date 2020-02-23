@@ -17,8 +17,8 @@ InputDate::InputDate(ofstream &fout) {
     fout << "\\omega = " << w << "\\frac{рад}{с}\\\\\n";
     cin >> dk1 >> dk2;
     fout << "Диаметры зубчатых колёс: \\\\\n";
-    fout << "\\d_{k1} = " << dk1 << "м\\\\\n";
-    fout << "\\d_{k2} = " << dk2 << "м\\\\\n";
+    fout << "d_{k1} = " << dk1 << "м\\\\\n";
+    fout << "d_{k2} = " << dk2 << "м\\\\\n";
     cin >> fi1 >> fi2;
     fout << "Угловые координаты точек зацепления зубчатых колёс: \\\\\n";
     fout << "\\beta_2 = " << bt2 << "{\\circ}\\\\\n";
@@ -27,11 +27,11 @@ InputDate::InputDate(ofstream &fout) {
     fi2 = (fi2 * 3.14) / 180;
     cin >> l1 >> l2 >> l3 >> l4 >> l5;
     fout << "Длины участков вала: \\\\\n";
-    fout << "\\l_1 = " << l1 << "м\\\\\n";
-    fout << "\\l_2 = " << l2 << "м\\\\\n";
-    fout << "\\l_3 = " << l3 << "м\\\\\n";
-    fout << "\\l_4 = " << l4 << "м\\\\\n";
-    fout << "\\l_5 = " << l5 << "м\\\\\n";
+    fout << "l_1 = " << l1 << "м\\\\\n";
+    fout << "l_2 = " << l2 << "м\\\\\n";
+    fout << "l_3 = " << l3 << "м\\\\\n";
+    fout << "l_4 = " << l4 << "м\\\\\n";
+    fout << "l_5 = " << l5 << "м\\\\\n";
     cin >> eta1 >> eta2 >> eta3;
     cin >> N1 >> N2 >> N3;
     fout << "Коэффициенты перегрузки \\\\\n";
@@ -39,9 +39,9 @@ InputDate::InputDate(ofstream &fout) {
     fout << "\\eta_2 = " << eta2 << "\\\\\n";
     fout << "\\eta_3 = " << eta3 << "\\\\\n";
     fout << "Длительность ступени: \\\\\n";
-    fout << "\\N_1 = " << N1 << "циклов\\\\\n";
-    fout << "\\N_2 = " << N2 << "циклов\\\\\n";
-    fout << "\\N_3 = " << N3 << "циклов\\\\\n";
+    fout << "N_1 = " << N1 << "циклов\\\\\n";
+    fout << "N_2 = " << N2 << "циклов\\\\\n";
+    fout << "N_3 = " << N3 << "циклов\\\\\n";
     cin >> material;
     for(string &i : sootnoshenie){
         i += "d_";
@@ -200,7 +200,7 @@ void WalPosition::equipmentCout(ofstream &fout){
     }
     fout << "Отношение радиусов кривизны галтелей к диаметрам вала: \\\\\n";
     for(int i = 0; i < 4; i++){
-        fout << "frac{r_" << ++i << "}{d_" << ++i << "} = " << otnoshenie[i] << "\\\\\n";
+        fout << "frac{r_" << i + 1 << "}{d_" << i + 1 << "} = " << otnoshenie[i] << "\\\\\n";
     }
 
     fout << "\\begin{math}\\label{eq:reactiomEquation}\n";
