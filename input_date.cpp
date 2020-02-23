@@ -63,7 +63,7 @@ InputDate::InputDate(ofstream &fout) {
 }
 
 
-defXYZ::defXYZ(ofstream &fout) {
+defXYZ::defXYZ(ofstream &fout):InputDate(fout) {
     sign = 0;
     //Расчёт X1, Y1, Z1
     //fout << "Введите знак перед слагаемым Fx1\n";
@@ -111,7 +111,7 @@ defXYZ::defXYZ(ofstream &fout) {
     Mz2 = sign * Fx2 * (dk2 / 2) * cos(fi2);
 }
 
-WalPosition::WalPosition(ofstream &fout) {
+WalPosition::WalPosition(ofstream &fout):defXYZ(fout) {
     dist[0] = 0.5 * l1 + 0.5 * l2;
     dist[1] = 0.5 * l2 + l3 + 0.5 * l4;
     dist[2] = 0.5 * l4 + 0.5 * l5;
@@ -191,7 +191,7 @@ WalPosition::WalPosition(ofstream &fout) {
     }
 }
 
-void WalPosition::equipmentfout(ofstream &fout) {
+void WalPosition::equipmentCout(ofstream &fout){
     //Вывод начальных данных
     fout << "Материал вала - " << material << "\\\\\n";
     fout << "Соотношения между диаметрами ступеней вала: \\\\\n";
