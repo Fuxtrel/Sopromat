@@ -1,11 +1,12 @@
 #include "input_date.h"
-
+#include <fstream>
 
 
 int main() {
     setlocale(LC_ALL, "Russian");
-    //InputDate inpD;
+    ofstream fout;
+    fout.open("text.txt");
     WalPosition WP;
-    //defXYZ A;
     WP.equipmentCout();
+    fout.close();
 }

@@ -13,7 +13,7 @@ public:
     //”гловые параметры зубчатых зацеплений
     double alf, bt1, bt2;
     //”глова€ скорость вращени€ вала
-    //int w;
+    int w;
     //ƒиаметры зубчатых колЄс
    double dk1, dk2;
     //”гловые координаты точек зацеплоени€ зубчатых колЄс
@@ -25,8 +25,8 @@ public:
     //ƒлительность ступени N
     int N1, N2, N3;
     double Ft1, Ft2, Fx1, Fx2, Fr1, Fr2;
-
-    InputDate();
+    string material, sootnoshenie[4], otnoshenie[4];
+    InputDate(ofstream &fout);
 
 };
 
@@ -36,7 +36,7 @@ public:
     int sign;
     double X1, Y1, Z1, X2, Y2, Z2, My1, My2, Mz1, Mz2;
 
-    defXYZ();
+    defXYZ(ofstream &fout);
 
 };
 
@@ -47,8 +47,8 @@ public:
     string d1, d2, d3;
     double Ha, Ray, Raz, Rby, Rbz;
 
-    WalPosition();
-    void equipmentCout();
+    WalPosition(ofstream &fout);
+    void equipmentCout(ofstream &fout);
 };
 
 #endif //SOPROMAT_INPUT_DATE_H
