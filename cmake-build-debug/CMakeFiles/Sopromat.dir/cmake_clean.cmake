@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Sopromat.dir/coefficients.cpp.obj"
   "CMakeFiles/Sopromat.dir/input_date.cpp.obj"
   "CMakeFiles/Sopromat.dir/main.cpp.obj"
   "Sopromat.exe"

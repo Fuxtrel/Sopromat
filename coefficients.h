@@ -1,0 +1,8 @@
+//
+// Created by nne_l on 24.02.2020.
+//
+
+#ifndef SOPROMAT_COEFFICIENTS_H
+#define SOPROMAT_COEFFICIENTS_H
+
+#endif //SOPROMAT_COEFFICIENTS_H

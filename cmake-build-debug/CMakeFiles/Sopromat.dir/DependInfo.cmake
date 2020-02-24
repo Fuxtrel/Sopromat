@@ -4,8 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/811243/CLionProjects/Sopromat/input_date.cpp" "C:/Users/811243/CLionProjects/Sopromat/cmake-build-debug/CMakeFiles/Sopromat.dir/input_date.cpp.obj"
-  "C:/Users/811243/CLionProjects/Sopromat/main.cpp" "C:/Users/811243/CLionProjects/Sopromat/cmake-build-debug/CMakeFiles/Sopromat.dir/main.cpp.obj"
+  "C:/Users/nne_l/CLionProjects/Sopromat/coefficients.cpp" "C:/Users/nne_l/CLionProjects/Sopromat/cmake-build-debug/CMakeFiles/Sopromat.dir/coefficients.cpp.obj"
+  "C:/Users/nne_l/CLionProjects/Sopromat/input_date.cpp" "C:/Users/nne_l/CLionProjects/Sopromat/cmake-build-debug/CMakeFiles/Sopromat.dir/input_date.cpp.obj"
+  "C:/Users/nne_l/CLionProjects/Sopromat/main.cpp" "C:/Users/nne_l/CLionProjects/Sopromat/cmake-build-debug/CMakeFiles/Sopromat.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
